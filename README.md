@@ -11,7 +11,7 @@
 
 The code is base on [IIRC: Incremental Implicitly-Refined Classification](https://github.com/chandar-lab/IIRC)
 
-You need to first download [cifar100] (https://www.cs.toronto.edu/~kriz/cifar.html), then place it in this repository as:
+You need to first download [cifar100](https://www.cs.toronto.edu/~kriz/cifar.html), then place it in this repository as:
 
 ```
 |-- cifar100/cifar-100-python/
